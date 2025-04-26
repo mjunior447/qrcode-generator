@@ -20,4 +20,4 @@ The image is stored in the given AWS S3 bucket.
 5. Run the application with `docker run --env-file .env -p 8080:8080 qrcode-generator:1.0`
 6. Make requests and get your QR Code
 
-##![QRCODE](https://github.com/user-attachments/assets/982804ca-f133-4f30-8754-2e29ee101d99)
+![QRCODE](https://github.com/user-attachments/assets/982804ca-f133-4f30-8754-2e29ee101d99)
